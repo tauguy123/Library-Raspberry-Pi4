@@ -14,3 +14,7 @@ sudo pip install paho-mqtt
 sudo apt-get install supervisor
 #Newest
 sudo raspi-config -> 5 interfacing options -> P2 SSH
+
+pip install fastapi
+pip install uvicorn
+pip install pymongo
